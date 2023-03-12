@@ -110,7 +110,6 @@
             <artifactId>log4j-slf4j2-impl</artifactId>
         </dependency>
 
-
         <!-- Testing -->
         <dependency>
             <groupId>junit</groupId>
